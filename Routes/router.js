@@ -1,6 +1,4 @@
 
-//to setup paths
-
 // 1. import express
 const express = require('express')
 
